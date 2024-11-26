@@ -7,7 +7,7 @@
 
 </div>
 
-Este projeto é a segunda atividade prática da disciplina de Bancos de Dados não Relacional, com o intuito de aprofundar conhecimentos e habilidades no uso do MongoDB, um sistema de gerenciamento de banco de dados orientado a documentos, em conjunto com a linguagem de programação Python. O projeto visa desenvolver e demonstrar operações fundamentais de CRUD (Create, Read, Update, Delete), aplicadas em um contexto real de aplicação.
+Este projeto tem o intuito de aprofundar conhecimentos e habilidades no uso do MongoDB, um sistema de gerenciamento de banco de dados orientado a documentos, em conjunto com a linguagem de programação Python. O projeto visa desenvolver e demonstrar operações fundamentais de CRUD (Create, Read, Update, Delete), aplicadas em um contexto real de aplicação.
 
 ## 🎯 Objetivos:
 
